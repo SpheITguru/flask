@@ -46,7 +46,7 @@ def hello_client():
         <div class="container">
           <div class="message">{message}</div>
           <div class="image">
-            <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+            <img src="https://via.placeholder.com/640" alt="Placeholder Image">
           </div>
         </div>
       </body>
